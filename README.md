@@ -1,5 +1,7 @@
 # FastDoc - Aplicativo de Preenchimento Automático de Documentos
 
+> Este repositório está atualmente disponibilizado de forma pública para fins de estudo enquanto o projeto ainda está em fase de desenvolvimento. Sinta-se à vontade para fazer o download, criar sua cópia ou clonar o repositório para explorar o seu conteúdo. No entanto, por favor, tenha em mente que o projeto ainda não foi finalizado.
+
 _Ferramenta eficiente para arquitetos e engenheiros que agiliza o fluxo de trabalho e reduz erros. Possui interface moderna e intuitiva._
 
 ## Características Principais
